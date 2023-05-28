@@ -80,7 +80,7 @@ Although the college could broadly withstand the vagaries of nature over such a 
 
 > This initiative has been duly assisted by Shri Dipak Sanyal, an alumnus of Krishnagar Govt. College 
 
-### List of Documents enclosed:
+### List of Documents enclosed
 
 1. A write-up by Dr. Dhirendra Nath Biswas, an Alumnus and Ex Teacher-in-Charge, Krishnagar Govt. College 
 2. A write-up in Bengali by Shri Abani Mohan Joarder, an Alumnus and Honorable Former Minister Govt. of West Bengal
