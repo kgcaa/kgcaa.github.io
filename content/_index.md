@@ -14,3 +14,5 @@ If you are an alumnus of Krishnanagar Government College and would like to stay 
 The Memorandum of Association of Krishnanagar Government College Alumni Association can be accessed [here](/memorandum_of_association.pdf). It outlines the objectives and rules governing the association and serves as a guiding document for its members.
 
 The registration certificate of Krishnanagar Government College Alumni Association under the Societies Act can be viewed [here](/registration_under_societies_act.pdf). This serves as proof of the association's legal recognition and compliance with the relevant regulations.
+
+Explore the rich history of our alma mater through the year-wise collection of souvenirs. Click [here](/souvenir) to access the complete list and take a trip down memory lane!
