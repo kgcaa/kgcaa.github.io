@@ -8,7 +8,7 @@ description: "Take a trip down memory lane!"
 Welcome to the souvenir page of Krishnagar Government College, where we
 showcase our journey through the years. Explore the collection of souvenirs
 dating back to the early days of the college and witness the evolution of our
-beloved institution. Click each entry to read the souvenir.
+beloved institution. Click on each entry to read the corresponding souvenir.
 
 - [2014](/souvenir_2014.pdf)
 - [2013](/souvenir_2013.pdf)
