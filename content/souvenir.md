@@ -11,6 +11,7 @@ dating back to the early days of the college and witness the evolution of our
 beloved institution. Click on each entry to read the corresponding souvenir.
 
 - [2014](/souvenir_2014.pdf)
+- [2013](/souvenir_2013.pdf)
 - [2012](/souvenir_2012.pdf)
 - [2011](/souvenir_2011.pdf)
 - [2010](/souvenir_2010.pdf)
