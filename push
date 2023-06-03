@@ -1,0 +1,6 @@
+#!/bin/bash
+# A simple POSIX shell script to automate the deployment of the page
+rm -rf resources/ public/
+git add *
+git commit -am "$1"
+git push
