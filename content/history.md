@@ -10,9 +10,12 @@ Heritage is fundamental in creating a “Sense of Pride” for a community consi
 
 Krishnagar College was founded with the sanction of Lord Hardinge, Governor General of India and formally opened on the 1st January, 1846 for providing “Liberal Education” for the inhabitants of Nadia and neighboring districts of undivided Bengal. It was open to all, irrespective of religion, caste, creed and gender. The foundation of a college at Krishnagar, Nadia is an important event of social, cultural and educational life of public at large. As the Hindu College in Calcutta was established in 1817 for imparting modern education in Calcutta, this Krishnagar College was established to impart Higher Education for Rural Bengal during Mediaeval Life. Both shed new lights on the thinking and way of life of the people and the society. The seeds of modernity showed at Nadia, 100kms away from Calcutta, produced many stalwarts in literature, music, drama, sports and games. Notable personalities of National Freedom, Activists Political and Social Movements, Academicians and Intellectuals came out from this College.
 
+![shape of college in earlier days](/cover.jpg)
+
 ### A few notable Alumni
 
-- Dwijendralal Ray – Patriot Poet and Play Writer
+- **Dwijendralal Ray – Patriot Poet and Play Writer**
+![D.L.Roy](/DL_Roy_Poster.jpg)
 - Aswini Kumar Dutta – Eminent Scholar and Social Reformer
 - Pamatha Chowdhury – Writer
 - Surendranath Dasgupta – Eminent Philosopher
@@ -26,10 +29,15 @@ Krishnagar College was founded with the sanction of Lord Hardinge, Governor Gene
 - Jagadananda Roy – Scientist and writer of popular Scientific literature
 - Mukul Gopal Mukhopadhyay – Eminent Lawyer, Ex-Chief Justice, Ex-Chairperson, West Bengal Human Rights Commission
 - Bijay Lal Chattapadhya – A patriot, minstrel, writer blessed by Rabindranath Tagore
-- Narayan Sanyal - A Civil Engineer and an eminent writer.
+![Bijay Lal Chattapadhya](/bijoylal.png)
+- **Narayan Sanyal - A Civil Engineer and an eminent writer.**
+
+{{< center-image src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/NarayanSanyallhome.jpg/220px-NarayanSanyallhome.jpg" >}}
 - Hemanta Kumar Sarkar – A patriot and close friend-philosopher of Netaji Subhas Chandra Bose with whom “Shramajeebi Naisha Vidyalay”, Night school for laborers was established in Krishnagar. He was awarded Gold Medal for securing the first position in M.A. (Comparative Philosophy)
 - Pramod Ranjan Sengupta – A Revolutionary Activist, closely associated with Hemanta Sarkar.
 - Kshikanta Moitra – One of the most respected persons of Krishnagar, eminent politician, a Minister of West Bengal , an excellent Orator, Writer and a Barrister, practicing in the Clcutta High Court.
+
+{{< center-image src="/Kashikanta_Moitra.jpg" >}}
 - Amarendranath Sanyal – Squadron Leader of Indian Air Force 
 - Sudhir Chakraborty - Eminent Academician and writer 
 - Dilip Bagchi - mass singer, educationist and political activist.
@@ -71,6 +79,8 @@ During its inception, the college compound was fenced completely with barbed wir
 As a result, the teachers, students and general public of the town looked at the college compound with a sense of awe, wonder and respect. To them all, the entire college compound was a sacred place.  
 
 The panoramic view with imposing building with vast surroundings, decorated with flower garden, playgrounds and trees created a serene and tranquil atmosphere conducive to academic pursuit and fostering aesthetic sense in the blooming mind of the students and helped lessening their stress and strain with fresh air. 
+
+![Image of 2022](/DSCN1865.JPG)
 
 As regards the architecture of the palatial main building of the college, it is a NEO-CLASSICAL ARCHITECTURE (sometimes confused with Roman Architecture) and has striking similarities with Raj Bhawan of Kolkata, if viewed from the North Gate. The frontal portico of the building is surrounded by a colonnaded verandah accessed by flights of grand steps. The plan allows a great deal of natural ventilation with very high ceiling for all the rooms, while also permitting views across the gardens. The other two building occupied by the college were erected during the year of 1879 – 80 and 1917-18, respectively.
 
