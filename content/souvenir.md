@@ -18,4 +18,4 @@ beloved institution. Click on each entry to read the corresponding souvenir.
 - [2010](/souvenir_2010.pdf)
 - [2009](/souvenir_2009.pdf)
 - [2022](/KGCAA_Souvenir_2022_with_Annexure.pdf)
-
+- [2023](/KGCAA Souvenir 2023_with_Annexures.pdf)
